@@ -22,13 +22,6 @@ Soy un **Desarrollador de Aplicaciones Multiplataforma (DAM)** en formación, ap
 - SQL & Hibernate (Persistencia de datos y bases de datos relacionales) 
 - Python & Odoo (Integración y automatización de sistemas ERP) 
 
-## 📌 Proyecto Destacado
-
-### [Eventify ERP & App](https://github.com/Antondevesa/Eventify_ERP_App)
-Es un ecosistema completo dividido en tres módulos principales:
-1. **App Móvil (Cliente):** Marketplace desarrollado en React Native para exploración de eventos, filtros avanzados y pasarela de pagos.
-2. **App de Escritorio (Admin):** Panel de control en JavaFX para gestionar el stock, aforo y creación de nuevos eventos.
-3. **Integración ERP:** Sincronización automática de ventas y facturación utilizando Python y Odoo.
 
 ## 📫 Cómo contactarme
 
