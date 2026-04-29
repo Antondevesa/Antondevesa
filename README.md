@@ -33,7 +33,7 @@
 ## 📫 Cómo contactarme
 
 - 📧 Email: antondevesa03@gmail.com
-- 💼 LinkedIn: [Añade tu enlace aquí]
+- 💼 LinkedIn: https://www.linkedin.com/in/antonio-devesa-varela-70754b262/
 
 ---
 ⭐️ *¡Gracias por visitar mi perfil! Siempre estoy abierto a conectar y hablar sobre tecnología.*
