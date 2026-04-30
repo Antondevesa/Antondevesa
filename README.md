@@ -5,7 +5,6 @@ Soy un **Desarrollador de Aplicaciones Multiplataforma (DAM)** en formación, ap
 ## 🚀 Sobre mí
 
 - 🎓 Actualmente cursando el Ciclo Formativo de Grado Superior en DAM.
-- 💻 Desarrollando **Eventify ERP & App**, una plataforma inteligente cliente-servidor para la gestión y venta de entradas de eventos.
 - 💡 Me interesa la arquitectura de software, el desarrollo de interfaces de usuario (GUI/Móvil) y la automatización de procesos de facturación.
 
 ## 🛠️ Stack Tecnológico
